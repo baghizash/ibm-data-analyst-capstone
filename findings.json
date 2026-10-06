@@ -1,0 +1,701 @@
+{
+  "total_respondents": 65437,
+  "demographics": {
+    "top_countries": [
+      {
+        "name": "United States of America",
+        "count": 11095
+      },
+      {
+        "name": "Germany",
+        "count": 4947
+      },
+      {
+        "name": "India",
+        "count": 4231
+      },
+      {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "count": 3224
+      },
+      {
+        "name": "Ukraine",
+        "count": 2672
+      },
+      {
+        "name": "France",
+        "count": 2110
+      },
+      {
+        "name": "Canada",
+        "count": 2104
+      },
+      {
+        "name": "Poland",
+        "count": 1534
+      },
+      {
+        "name": "Netherlands",
+        "count": 1449
+      },
+      {
+        "name": "Brazil",
+        "count": 1375
+      }
+    ],
+    "age_buckets": [
+      {
+        "bucket": "25-34 years old",
+        "count": 23911
+      },
+      {
+        "bucket": "35-44 years old",
+        "count": 14942
+      },
+      {
+        "bucket": "18-24 years old",
+        "count": 14098
+      },
+      {
+        "bucket": "45-54 years old",
+        "count": 6249
+      },
+      {
+        "bucket": "55-64 years old",
+        "count": 2575
+      },
+      {
+        "bucket": "Under 18 years old",
+        "count": 2568
+      },
+      {
+        "bucket": "65 years or older",
+        "count": 772
+      },
+      {
+        "bucket": "Prefer not to say",
+        "count": 322
+      }
+    ],
+    "age_mean": 33.0,
+    "age_median": 29.5,
+    "top_education": [
+      {
+        "name": "Bachelor’s degree (B.A., B.S., B.Eng., etc.)",
+        "count": 24942
+      },
+      {
+        "name": "Master’s degree (M.A., M.S., M.Eng., MBA, etc.)",
+        "count": 15557
+      },
+      {
+        "name": "Some college/university study without earning a degree",
+        "count": 7651
+      },
+      {
+        "name": "Secondary school (e.g. American high school, German Realschule or Gymnasium, etc.)",
+        "count": 5793
+      },
+      {
+        "name": "Professional degree (JD, MD, Ph.D, Ed.D, etc.)",
+        "count": 2970
+      },
+      {
+        "name": "Associate degree (A.A., A.S., etc.)",
+        "count": 1793
+      },
+      {
+        "name": "Primary/elementary school",
+        "count": 1146
+      },
+      {
+        "name": "Something else",
+        "count": 932
+      }
+    ],
+    "employment": [
+      {
+        "name": "Employed, full-time",
+        "count": 45162
+      },
+      {
+        "name": "Independent contractor, freelancer, or self-employed",
+        "count": 10726
+      },
+      {
+        "name": "Student, full-time",
+        "count": 8626
+      },
+      {
+        "name": "Employed, part-time",
+        "count": 4145
+      },
+      {
+        "name": "Not employed, but looking for work",
+        "count": 3954
+      },
+      {
+        "name": "Student, part-time",
+        "count": 2656
+      },
+      {
+        "name": "Not employed, and not looking for work",
+        "count": 1203
+      },
+      {
+        "name": "Retired",
+        "count": 681
+      },
+      {
+        "name": "I prefer not to say",
+        "count": 546
+      }
+    ],
+    "pct_professional_developers": 76.7,
+    "mainbranch": [
+      {
+        "name": "I am a developer by profession",
+        "count": 50207
+      },
+      {
+        "name": "I am not primarily a developer, but I write code sometimes as part of my work/studies",
+        "count": 6511
+      },
+      {
+        "name": "I am learning to code",
+        "count": 3875
+      },
+      {
+        "name": "I code primarily as a hobby",
+        "count": 3334
+      },
+      {
+        "name": "I used to be a developer by profession, but no longer am",
+        "count": 1510
+      }
+    ]
+  },
+  "languages": {
+    "top_have": [
+      {
+        "name": "JavaScript",
+        "count": 37492
+      },
+      {
+        "name": "HTML/CSS",
+        "count": 31816
+      },
+      {
+        "name": "Python",
+        "count": 30719
+      },
+      {
+        "name": "SQL",
+        "count": 30682
+      },
+      {
+        "name": "TypeScript",
+        "count": 23150
+      },
+      {
+        "name": "Bash/Shell (all shells)",
+        "count": 20412
+      },
+      {
+        "name": "Java",
+        "count": 18239
+      },
+      {
+        "name": "C#",
+        "count": 16318
+      },
+      {
+        "name": "C++",
+        "count": 13827
+      },
+      {
+        "name": "C",
+        "count": 12184
+      }
+    ],
+    "top_want": [
+      {
+        "name": "Python",
+        "count": 25047
+      },
+      {
+        "name": "JavaScript",
+        "count": 23774
+      },
+      {
+        "name": "SQL",
+        "count": 22400
+      },
+      {
+        "name": "HTML/CSS",
+        "count": 20721
+      },
+      {
+        "name": "TypeScript",
+        "count": 20239
+      },
+      {
+        "name": "Rust",
+        "count": 17232
+      },
+      {
+        "name": "Go",
+        "count": 13837
+      },
+      {
+        "name": "Bash/Shell (all shells)",
+        "count": 13744
+      },
+      {
+        "name": "C#",
+        "count": 12921
+      },
+      {
+        "name": "C++",
+        "count": 10873
+      }
+    ],
+    "rising_by_gap": [
+      {
+        "name": "Rust",
+        "gap": 9673
+      },
+      {
+        "name": "Go",
+        "gap": 5734
+      },
+      {
+        "name": "Kotlin",
+        "gap": 1714
+      },
+      {
+        "name": "Swift",
+        "gap": 1048
+      },
+      {
+        "name": "Dart",
+        "gap": 115
+      }
+    ],
+    "rising_by_ratio": [
+      {
+        "name": "Rust",
+        "want_have_ratio": 2.28
+      },
+      {
+        "name": "Go",
+        "want_have_ratio": 1.708
+      },
+      {
+        "name": "Swift",
+        "want_have_ratio": 1.37
+      },
+      {
+        "name": "Kotlin",
+        "want_have_ratio": 1.303
+      },
+      {
+        "name": "Dart",
+        "want_have_ratio": 1.032
+      }
+    ]
+  },
+  "databases": {
+    "top_have": [
+      {
+        "name": "PostgreSQL",
+        "count": 25536
+      },
+      {
+        "name": "MySQL",
+        "count": 21099
+      },
+      {
+        "name": "SQLite",
+        "count": 17365
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "count": 13275
+      },
+      {
+        "name": "MongoDB",
+        "count": 13007
+      },
+      {
+        "name": "Redis",
+        "count": 10463
+      },
+      {
+        "name": "MariaDB",
+        "count": 8991
+      },
+      {
+        "name": "Elasticsearch",
+        "count": 6533
+      },
+      {
+        "name": "Oracle",
+        "count": 5273
+      },
+      {
+        "name": "Dynamodb",
+        "count": 4138
+      }
+    ],
+    "top_want": [
+      {
+        "name": "PostgreSQL",
+        "count": 24005
+      },
+      {
+        "name": "SQLite",
+        "count": 13489
+      },
+      {
+        "name": "MySQL",
+        "count": 12269
+      },
+      {
+        "name": "MongoDB",
+        "count": 10982
+      },
+      {
+        "name": "Redis",
+        "count": 10847
+      },
+      {
+        "name": "Microsoft SQL Server",
+        "count": 7905
+      },
+      {
+        "name": "Elasticsearch",
+        "count": 6246
+      },
+      {
+        "name": "MariaDB",
+        "count": 5947
+      },
+      {
+        "name": "Dynamodb",
+        "count": 3503
+      },
+      {
+        "name": "Supabase",
+        "count": 2930
+      }
+    ],
+    "biggest_gainers": [
+      {
+        "name": "Cassandra",
+        "have": 1268,
+        "want": 2399,
+        "gap": 1131
+      },
+      {
+        "name": "Supabase",
+        "have": 2078,
+        "want": 2930,
+        "gap": 852
+      },
+      {
+        "name": "Snowflake",
+        "have": 1364,
+        "want": 1784,
+        "gap": 420
+      },
+      {
+        "name": "Redis",
+        "have": 10463,
+        "want": 10847,
+        "gap": 384
+      },
+      {
+        "name": "BigQuery",
+        "have": 2531,
+        "want": 2554,
+        "gap": 23
+      }
+    ]
+  },
+  "ides": {
+    "top_have": [
+      {
+        "name": "Visual Studio Code",
+        "count": 42751
+      },
+      {
+        "name": "Visual Studio",
+        "count": 17021
+      },
+      {
+        "name": "IntelliJ IDEA",
+        "count": 15555
+      },
+      {
+        "name": "Notepad++",
+        "count": 13874
+      },
+      {
+        "name": "Vim",
+        "count": 12523
+      },
+      {
+        "name": "Android Studio",
+        "count": 9379
+      },
+      {
+        "name": "PyCharm",
+        "count": 8781
+      },
+      {
+        "name": "Jupyter Notebook/JupyterLab",
+        "count": 7432
+      },
+      {
+        "name": "Neovim",
+        "count": 7239
+      },
+      {
+        "name": "Sublime Text",
+        "count": 6332
+      }
+    ],
+    "top_want": [
+      {
+        "name": "Visual Studio Code",
+        "count": 33965
+      },
+      {
+        "name": "IntelliJ IDEA",
+        "count": 11721
+      },
+      {
+        "name": "Visual Studio",
+        "count": 11091
+      },
+      {
+        "name": "Vim",
+        "count": 9631
+      },
+      {
+        "name": "Notepad++",
+        "count": 8885
+      },
+      {
+        "name": "Neovim",
+        "count": 8020
+      },
+      {
+        "name": "PyCharm",
+        "count": 6492
+      },
+      {
+        "name": "Android Studio",
+        "count": 6131
+      },
+      {
+        "name": "Jupyter Notebook/JupyterLab",
+        "count": 5604
+      },
+      {
+        "name": "Xcode",
+        "count": 3914
+      }
+    ]
+  },
+  "webframes_have_top8": [
+    {
+      "name": "Node.js",
+      "count": 19772
+    },
+    {
+      "name": "React",
+      "count": 19167
+    },
+    {
+      "name": "jQuery",
+      "count": 10381
+    },
+    {
+      "name": "Next.js",
+      "count": 8681
+    },
+    {
+      "name": "Express",
+      "count": 8614
+    },
+    {
+      "name": "Angular",
+      "count": 8306
+    },
+    {
+      "name": "ASP.NET CORE",
+      "count": 8187
+    },
+    {
+      "name": "Vue.js",
+      "count": 7483
+    }
+  ],
+  "platforms_have_top8": [
+    {
+      "name": "Amazon Web Services (AWS)",
+      "count": 22191
+    },
+    {
+      "name": "Microsoft Azure",
+      "count": 12850
+    },
+    {
+      "name": "Google Cloud",
+      "count": 11605
+    },
+    {
+      "name": "Cloudflare",
+      "count": 6974
+    },
+    {
+      "name": "Firebase",
+      "count": 6443
+    },
+    {
+      "name": "Vercel",
+      "count": 5491
+    },
+    {
+      "name": "Digital Ocean",
+      "count": 5409
+    },
+    {
+      "name": "Heroku",
+      "count": 3798
+    }
+  ],
+  "compensation": {
+    "n_with_comp": 23433,
+    "median": 65000.0,
+    "mean": 84879.0,
+    "median_by_country_top6": [
+      {
+        "name": "United States of America",
+        "median_comp": 143000.0,
+        "n": 4677
+      },
+      {
+        "name": "Germany",
+        "median_comp": 73036.0,
+        "n": 2046
+      },
+      {
+        "name": "India",
+        "median_comp": 16749.0,
+        "n": 1037
+      },
+      {
+        "name": "United Kingdom of Great Britain and Northern Ireland",
+        "median_comp": 84076.0,
+        "n": 1391
+      },
+      {
+        "name": "Ukraine",
+        "median_comp": 26904.0,
+        "n": 1474
+      },
+      {
+        "name": "France",
+        "median_comp": 53703.0,
+        "n": 918
+      }
+    ],
+    "median_by_language_top5": [
+      {
+        "name": "JavaScript",
+        "median_comp": 63694.0,
+        "n": 14753
+      },
+      {
+        "name": "HTML/CSS",
+        "median_comp": 61457.0,
+        "n": 12123
+      },
+      {
+        "name": "Python",
+        "median_comp": 67694.0,
+        "n": 11406
+      },
+      {
+        "name": "SQL",
+        "median_comp": 64919.0,
+        "n": 12889
+      },
+      {
+        "name": "TypeScript",
+        "median_comp": 65907.0,
+        "n": 9968
+      }
+    ]
+  },
+  "job_satisfaction": {
+    "n_responses": 29126,
+    "distribution": [
+      {
+        "score": 0.0,
+        "count": 311
+      },
+      {
+        "score": 1.0,
+        "count": 276
+      },
+      {
+        "score": 2.0,
+        "count": 772
+      },
+      {
+        "score": 3.0,
+        "count": 1165
+      },
+      {
+        "score": 4.0,
+        "count": 1130
+      },
+      {
+        "score": 5.0,
+        "count": 1956
+      },
+      {
+        "score": 6.0,
+        "count": 3751
+      },
+      {
+        "score": 7.0,
+        "count": 6379
+      },
+      {
+        "score": 8.0,
+        "count": 7509
+      },
+      {
+        "score": 9.0,
+        "count": 3626
+      },
+      {
+        "score": 10.0,
+        "count": 2251
+      }
+    ],
+    "pct_satisfied_ge7": 67.9,
+    "pct_neutral_5_6": 19.6,
+    "pct_dissatisfied_le4": 12.5,
+    "mean_score": 6.94
+  },
+  "notes": {
+    "gender_column": "none - dataset has no gender column",
+    "age_column": "categorical buckets; mapped to midpoints for mean/median"
+  }
+}
